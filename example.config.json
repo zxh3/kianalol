@@ -1,0 +1,22 @@
+{
+  "shortcuts": {
+    "y": {
+      "name": "Youtube",
+      "description": "",
+      "url": "https://www.youtube.com/",
+      "urlWithPlaceholders": "https://www.youtube.com/results?search_query={}"
+    },
+    "g": {
+      "name": "Google",
+      "description": "",
+      "url": "https://www.google.com/",
+      "urlWithPlaceholders": "https://www.google.com/search?q={}"
+    },
+    "chat": {
+      "name": "ChatGPT",
+      "description": "",
+      "url": "https://chat.openai.com/",
+      "urlWithPlaceholders": ""
+    }
+  }
+}
