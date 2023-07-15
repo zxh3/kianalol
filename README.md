@@ -1,3 +1,6 @@
+
+
+
 # Kianalol
 
 Introducing Kianalol - the desktop app that free you from typing the in the address bar forever.
@@ -26,15 +29,17 @@ Example URL with placeholders: `https://www.google.com/search?q={}`
 
 | View                          | Screenshot                                                                                                                                          |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Search query empty            | <img width="1012" alt="Screenshot 2023-06-24 at 16 16 10" src="https://github.com/zxh3/kiana/assets/17435932/05c0a03e-a7f0-41e5-8c94-c904885cdf58"> |
-| Search query with leader key  | <img width="948" alt="Screenshot 2023-06-24 at 16 16 18" src="https://github.com/zxh3/kiana/assets/17435932/ce4b7e46-bb70-4d6a-ab50-637f672c538c">  |
-| Search query with placeholder | <img width="956" alt="Screenshot 2023-06-24 at 16 16 39" src="https://github.com/zxh3/kiana/assets/17435932/97171abb-cbc8-463e-9213-df6142f59667">  |
-| System Tray                   | <img width="627" alt="Screenshot 2023-06-24 at 05 10 41" src="https://github.com/zxh3/kiana/assets/17435932/b242854b-c8a7-45e8-b8f2-3c14f729e57b">  |
-| Preferences                   | <img width="991" alt="Preferences" src="https://github.com/zxh3/kiana/assets/17435932/f4aa2b1a-0b86-442c-89ef-d7c42c4ad352">                        |
+| Search query empty            | <img width="1012" alt="1" src="https://github.com/zxh3/kianalol/assets/17435932/3fe5acbc-e01f-4274-ad65-7cf9dac4d2fe"> |
+| Search query with leader key  | <img width="948" alt="2" src="https://github.com/zxh3/kianalol/assets/17435932/f70965e2-b243-4eda-a02b-87977d273822">  |
+| Search query with placeholder | <img width="956" alt="3" src="https://github.com/zxh3/kianalol/assets/17435932/2b7dc871-2b63-48d4-aa2a-12332d4fcc4c">  |
+| System Tray                   | <img width="627" alt="4" src="https://github.com/zxh3/kianalol/assets/17435932/a5f17000-a35c-4420-92ab-a76805b7255e">  |
+| Preferences                   | <img width="991" alt="5" src="https://github.com/zxh3/kianalol/assets/17435932/b61da086-80bc-4283-9de7-f874a0e696b6">  |
 
 ## Demo video
 
-[](https://github.com/zxh3/kiana/assets/17435932/508fe86d-51ed-40ed-aa6b-76bd18aa9739)
+
+[](https://github.com/zxh3/kiana/assets/17435932/508fe86d-51ed-40ed-aa6b-76bd18aa9739](https://github.com/zxh3/kianalol/assets/17435932/1775a894-4f70-4f47-b217-2a2e5b4d95a5
+)
 
 ## Build
 
