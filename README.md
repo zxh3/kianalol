@@ -49,6 +49,13 @@ cargo tauri build --target x86_64-apple-darwin
 cargo tauri build --target universal-apple-darwin
 ```
 
+## TODO
+
+- [ ] Support tagging shortcuts
+- [ ] Support loading or syncing shortcuts from gists
+- [ ] Better shortcut table view - support shortcut filter, searching, ...
+- [ ] ...
+
 ## Credits
 
 - Reference for displaying the spotlight panel: https://github.com/ahkohd/tauri-macos-spotlight-example
