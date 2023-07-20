@@ -54,7 +54,7 @@ cargo tauri build --target universal-apple-darwin
 - [ ] Support tagging shortcuts
 - [ ] Support loading or syncing shortcuts from gists
 - [ ] Better shortcut table view - support shortcut filter, searching, ...
-- [ ] ...
+- [ ] Support variables
 
 ## Credits
 
