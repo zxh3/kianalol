@@ -3,7 +3,7 @@
 
 # Kianalol
 
-Introducing Kianalol - the desktop app that free you from typing the in the address bar forever.
+Introducing Kianalol - the tool that frees you from typing the in the address bar forever.
 
 ## Installation
 
